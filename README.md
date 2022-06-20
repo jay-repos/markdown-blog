@@ -13,7 +13,14 @@
 
 ## Screenshots
 ### Posts
-![]()
+![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/posts.png)
+### Post
+![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/post.png)
+### Post editing
+![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/edit.png)
+### Add new post
+![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/newpost.png)
+
 
 
 ## Running on local
