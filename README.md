@@ -14,11 +14,11 @@
 ## Screenshots
 ### Posts
 ![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/posts.png)
-### Post
+### Single post
 ![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/post.png)
 ### Post editing
 ![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/edit.png)
-### Add new post
+### Add a new post
 ![](https://github.com/jay-repos/markdown-blog/blob/main/screenshots/newpost.png)
 
 
