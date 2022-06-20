@@ -27,6 +27,7 @@ npm install
 #### 3. start running
 ```
 npm run devStart
+(http://localhost:5000/)
 ```
 
 
